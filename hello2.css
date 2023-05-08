@@ -1,0 +1,77 @@
+.background{
+    height: 100vh;
+    width: 100%;
+    background-color: aqua;
+}
+.divide1{
+    height: 10%;
+    width: 100%;
+    background-color:white;
+    display: flex;
+    justify-content: space-between;
+
+}
+.divide2{
+    height: 90%;
+    width: 100%;
+    background-color: blue;
+}
+.B{
+    height: 50%;
+    width: 100%;
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.C{
+    height: 50%;  
+    width: 100%;  
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.ba{
+    width: 15%;
+    height: 50%;
+    background-color: white;
+}
+.bb{
+    width: 15%;
+    height: 50%;
+    background-color: white;
+}
+.ca{
+    width: 15%;
+    height: 50%;
+    background-color: white;
+}
+.cb{
+    width: 15%;
+    height: 50%;
+    background-color: white;
+}
+.logo{
+    height: 100%;
+    width: 10%;
+    background-color:white;
+}
+.kart{
+    height: 100%;
+    width: 10%;
+    background-color: white;
+}
+.login{
+    height: 100%;
+    width: 10%;
+    background-color: white;
+    text-align: center;
+}
+.signup{
+    height: 100%;
+    width: 10%;
+    background-color: white;
+    text-align: center;
+
+}
